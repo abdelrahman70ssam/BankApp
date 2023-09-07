@@ -1,0 +1,15 @@
+ID 1
+basic account 
+Name -> abdelrahman
+address -> haram
+Phone Number -> 0103566
+balance -> 1500
+___________________________________________
+__
+ID 2
+saving account 
+Name -> vv
+address -> cc
+Phone Number -> 12
+balance -> 2000
+___________________________________________
